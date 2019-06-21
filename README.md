@@ -1,6 +1,8 @@
 # Melanie
-Melanie is an online ensemble method enable to cope with concept drift with multi-sources. Melanie is the first approach able to transfer  
-knowledge between multiple data streaming sources in non-stationary environments. 
+Melanie is an online ensemble method enable to cope with concept drift with multi-sources. 
+
+Melanie is the first approach able to transfer knowledge between multiple data streaming sources in non-stationary environments. 
+
 The full name is Multi-sourcE onLine TrAnsfer learning for Non-statIonary Environments. 
 
 It has been accepted by IJCNN 2019, we will update the reference after the conference.
