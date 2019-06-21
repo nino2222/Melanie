@@ -6,7 +6,8 @@ The full name is Multi-sourcE onLine TrAnsfer learning for Non-statIonary Enviro
 It has been accepted by IJCNN 2019, we will update the reference after the conference.
 
 There is also an ArXiv version available now:
-Du, H., Minku, L.L. and Zhou, H., 2019. Multi-Source Transfer Learning for Non-Stationary Environments. arXiv preprint arXiv:1901.02052.
+Du, H., Minku, L.L. and Zhou, H., 2019. Multi-Source Transfer Learning for Non-Stationary Environments. arXiv preprint arXiv:1901.02052. 
+https://arxiv.org/pdf/1901.02052.pdf
 
 ## Dependencies
 MOA-release-2018.6.0 <<<It may work with other versions, but we haven't tested with them>>>
