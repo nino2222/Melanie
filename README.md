@@ -21,16 +21,16 @@ I put all the datasets used in the experiments into repository.
  
 For each experiment, we put different sources data into one arff.file. Each problem instance has three types associated data sets as follows format:
 
-<name of data set>_<class size/Percentage of target>_<source size>_<m/s>.arff
+(name of data set)_(class size/Percentage of target)_(source size)_(m/s).arff
 
-<name of data set> This is the name of data set.
+(name of data set) This is the name of data set.
 
-<class size/Percentage of target> For artifical data sets, this is the class size of target data. 
+(class size/Percentage of target) For artifical data sets, this is the class size of target data. 
 For real world data sets, this is the percentage of source data we extracted from origenal data sets.
 
-<source size> this is to indicate how many sources are used in the data set.
+(source size) this is to indicate how many sources are used in the data set.
 
-<m/s> m means this data set can be used for Melanie. s means this data set can be used for other algorithms.
+(m/s) m means this data set can be used for Melanie. s means this data set can be used for other algorithms.
 
 The data set Melanie used will have one additional feature before other features to indicate where the source comes from.
 For example, 1 means the instance comes from source 1 and 0 means the instance comes from the target domain. 
