@@ -45,5 +45,6 @@ There are two ways to run the models.
 First is using MOA's GUI.
 
 Seconde is runing from command line by using MOA's command format.
+
 For example, java -Xmx$MEMORY -cp "$BASEDIR/lib/moa-2018.6.0:$BASEDIR/lib/*" -javaagent:$BASEDIR/lib/sizeofag-1.0.4.jar moa.DoTask "EvaluatePrequential -l (meta.Melanie -b (meta.OzaBag -e ensemble_size -r random_seed) -t theta_value -l lamda_value -a threshhold -i dataset_size -c concept_drift_position -u $i -f (output_path)) -s (ArffFileStream -f dataset_path)"
 
