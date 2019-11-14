@@ -5,7 +5,7 @@ Melanie is the first approach able to transfer knowledge between multiple data s
 
 The full name is Multi-sourcE onLine TrAnsfer learning for Non-statIonary Environments. 
 
-It has been accepted by IJCNN 2019, we will update the reference after the conference.
+It has been accepted by IJCNN 2019, the reference is https://ieeexplore.ieee.org/document/8852024.
 
 There is also an ArXiv version available now:
 Du, H., Minku, L.L. and Zhou, H., 2019. Multi-Source Transfer Learning for Non-Stationary Environments. arXiv preprint arXiv:1901.02052. 
